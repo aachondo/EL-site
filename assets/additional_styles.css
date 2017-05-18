@@ -31,7 +31,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .logo {
-  width: 425px;
+  width: 100vh;
   margin: 0 0 15px 0;
   background: white;
   background: rgba(194,235,239,0.7);
